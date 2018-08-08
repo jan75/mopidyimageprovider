@@ -1,0 +1,5 @@
+flask
+flask-restful
+uwsgi
+sphinx
+sphinx_rtd_theme
